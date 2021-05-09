@@ -5,24 +5,7 @@
 - Front(이예원, 김도희, 정새미)와 Back(원재연, 정재유, 이병재) 총 6명의 팀원으로 구성
 
 ## 👩🏻‍💻 Front-end Work Details
-### 이예원
-- `Resume Storage`: 이력서 관리 페이지
-    - PDF 파일 형식의 이력서 업로드 기능
-    - 파일 삭제, 수정, PDF 다운로드 기능
-    - 사이트 자체 이력서 불러오기 기능
-    - 동적 라우팅 기능
-- `Resume`: 이력서 작성 폼 페이지
-    - 필수 개인 정보 자동 완성 기능
-    - 경력 추가 / 삭제 기능
-    - 임시 저장 / 작성 완료 시 관리 페이지 업데이트 기능 
-- `Job Details`: 공고 상세 & 지원하기 페이지
-    - 기업 사진 캐러셀 구현
-    - 카카오 맵 api 이용, 해당 기업 지도 나타내기 구현
-    - Aside 메뉴인 지원하기 기능 구현
-        - 이미 지원한 공고 알람 기능
-        - 이력서 메뉴에서 업로드/작성했던 이력서 불러오기 기능
-        - 제출 할 파일 복수 선택 기능
-    
+
 ### 김도희
 - `nav` : 공통 컴포넌트 nav 바
     - 페이지 연결
@@ -42,10 +25,6 @@
     - 토큰 확인시 진입 가능
     - 지원한 목록 중 검색 기능 구현
     - 상세페이지에서 지원하기 버튼 시 담아지는 api 데이터 호출
-    - 
-
-### 정새미
-
 
 ## 🔧 Skills
 - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -61,9 +40,7 @@
 - <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 - <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 ## ✏️ Blogs
-- 이예원 : https://jessywlee.medium.com
-- 김도희 :
-- 정새미 : 
+- 김도희 : https://velog.io/@_dodo_hee
 
 ## ✏️ References
 - 이 프로젝트는 를 참고하여 학습용으로 작업 되었습니다.
